@@ -180,3 +180,10 @@ To check apache error logs:
 sudo cat /var/log/apache2/error.log
 
 
+
+To stop remote login of the root user:
+edit file:  /etc/ssh/sshd_config
+PermitRootLogin no
+
+
+
