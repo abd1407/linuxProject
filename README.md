@@ -186,4 +186,9 @@ edit file:  /etc/ssh/sshd_config
 PermitRootLogin no
 
 
+Some Help links:
+https://stackoverflow.com/
+https://askubuntu.com
+http://flask.pocoo.org/docs/1.0/deploying/
 
+Udacity Slack Channels
